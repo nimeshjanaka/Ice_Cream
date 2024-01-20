@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Design_hiper_Patten/Design_hiper_Patten.iml" filepath="$PROJECT_DIR$/Design_hiper_Patten/Design_hiper_Patten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IceCream.iml" filepath="$PROJECT_DIR$/IceCream.iml" />
+    </modules>
+  </component>
+</project>
